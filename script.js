@@ -29,7 +29,15 @@ const quand votre variable est voué à rester constante ( exemple : const pi = 
 //}
 
 
-/**
+
+//-----------------------------------------------------------------------------------------------------
+
+
+
+/**    TABLEAU JS
+ * 
+ * 
+ * 
  * Array Methods
  * 
  * tostring()
@@ -65,16 +73,19 @@ const quand votre variable est voué à rester constante ( exemple : const pi = 
 //push()
 
 //array.push() : ajoute un ou plusieurs éléments à la fin d'un tableau et renvoie la nouvelle longueur du tableau.
-let languages = ["HTML", "CSS", "JavaScript", "PHP"];
-console.log(languages.push("Python"));
+//let languages = ["HTML", "CSS", "JavaScript", "PHP"];
+//console.log(languages.push("Python"));
+//console.log(languages);
 
 //shift()
 //array.shift() : supprime le premier élément d'un tableau et renvoie cet élément.
 //let languages = ["HTML", "CSS", "JavaScript", "PHP"];
 //console.log(languages.shift());
+//console.log(languages);
 
 //unshift()
 //array.unshift() : ajoute un ou plusieurs éléments au début d'un tableau et renvoie la nouvelle longueur du tableau.
 //let languages = ["HTML", "CSS", "JavaScript", "PHP"];
 //console.log(languages.unshift("Python"));
+//console.log(languages);
 
